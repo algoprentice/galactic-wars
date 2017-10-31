@@ -90,8 +90,9 @@ public class Board extends JPanel implements ActionListener {
 
             drawObjects(g);
 
-        } else {
-
+        } 
+        else {
+            drawObjects(g);
             drawGameOver(g);
         }
 

@@ -27,7 +27,7 @@ public class Game extends JFrame {
         pack();
         setSize(400, 300);
         
-        setTitle("Moving sprite");
+        setTitle("Galactic Wars");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
